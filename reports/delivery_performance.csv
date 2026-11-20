@@ -1,0 +1,5 @@
+Delivery Status,total_items,total_orders,average_shipping_days,average_scheduled_days,average_delay_days
+Advance shipping,41592,15127,2.5,4.0,-1.5
+Late delivery,98977,36048,4.09,2.47,1.62
+Shipping canceled,7754,2855,3.48,2.9,0.57
+Shipping on time,32196,11722,2.98,2.98,0.0
