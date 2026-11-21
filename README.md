@@ -79,3 +79,14 @@ The interactive dashboard contains three analytical pages:
 
 ## Conclusion
 This project demonstrates an end-to-end data analytics workflow, combining SQL, Python, and Power BI to evaluate supply chain performance and support data-driven business decisions.
+
+## Power BI Dashboard Preview
+
+### 1. Executive Overview
+![Executive Overview](reports/dashboard_screenshots/executive_overview.png)
+
+### 2. Sales & Product Analysis
+![Sales & Product Analysis](reports/dashboard_screenshots/sales_product_analysis.png)
+
+### 3. Supply Chain & Delivery
+![Supply Chain & Delivery](reports/dashboard_screenshots/supply_chain_delivery.png)
